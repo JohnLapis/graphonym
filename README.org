@@ -1,0 +1,16 @@
+* graphonym
+
+Restful API for recursively searching related terms that form an acronym of your choice.
+It's better to see an example.
+
+You can also specify the depth of acronyms.
+
+This API can be accessed online at TODO.
+
+* Usage
+
+TODO
+
+* License
+
+This work is licensed under the [[file:LICENSE.txt][MIT License]].

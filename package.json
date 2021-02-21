@@ -1,0 +1,21 @@
+{
+  "name": "graphonym",
+  "version": "1.0.0",
+  "description": "Restful API for recursively searching related terms that form an acronym of your choice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "fastify": "^3.12.0"
+  },
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.1.25",
+    "@tsconfig/node12": "^1.0.7",
+    "@types/node": "^14.14.31",
+    "dotenv": "^8.2.0",
+    "fastify-cli": "^2.7.0"
+  },
+  "author": "Matheus Borges Alvite",
+  "license": "MIT"
+}
